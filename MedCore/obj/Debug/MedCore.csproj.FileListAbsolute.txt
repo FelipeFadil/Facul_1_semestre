@@ -1,0 +1,82 @@
+D:\Usuario 04 - NAO APAGAR\Downloads\MedCore\MedCore\bin\Debug\MedCore.exe.config
+D:\Usuario 04 - NAO APAGAR\Downloads\MedCore\MedCore\bin\Debug\MedCore.exe
+D:\Usuario 04 - NAO APAGAR\Downloads\MedCore\MedCore\bin\Debug\MedCore.pdb
+D:\Usuario 04 - NAO APAGAR\Downloads\MedCore\MedCore\obj\Debug\MedCore.csprojAssemblyReference.cache
+D:\Usuario 04 - NAO APAGAR\Downloads\MedCore\MedCore\obj\Debug\MedCore.TelaLogin.resources
+D:\Usuario 04 - NAO APAGAR\Downloads\MedCore\MedCore\obj\Debug\MedCore.Properties.Resources.resources
+D:\Usuario 04 - NAO APAGAR\Downloads\MedCore\MedCore\obj\Debug\MedCore.csproj.GenerateResource.cache
+D:\Usuario 04 - NAO APAGAR\Downloads\MedCore\MedCore\obj\Debug\MedCore.csproj.CoreCompileInputs.cache
+D:\Usuario 04 - NAO APAGAR\Downloads\MedCore\MedCore\obj\Debug\MedCore.exe
+D:\Usuario 04 - NAO APAGAR\Downloads\MedCore\MedCore\obj\Debug\MedCore.pdb
+C:\Users\gabri\Pictures\Backup Drive\UniToledo\Projeto 1\MedCore\MedCore\bin\Debug\MedCore.exe.config
+C:\Users\gabri\Pictures\Backup Drive\UniToledo\Projeto 1\MedCore\MedCore\bin\Debug\MedCore.exe
+C:\Users\gabri\Pictures\Backup Drive\UniToledo\Projeto 1\MedCore\MedCore\bin\Debug\MedCore.pdb
+C:\Users\gabri\Pictures\Backup Drive\UniToledo\Projeto 1\MedCore\MedCore\obj\Debug\MedCore.csprojAssemblyReference.cache
+C:\Users\gabri\Pictures\Backup Drive\UniToledo\Projeto 1\MedCore\MedCore\obj\Debug\MedCore.TelaLogin.resources
+C:\Users\gabri\Pictures\Backup Drive\UniToledo\Projeto 1\MedCore\MedCore\obj\Debug\MedCore.Properties.Resources.resources
+C:\Users\gabri\Pictures\Backup Drive\UniToledo\Projeto 1\MedCore\MedCore\obj\Debug\MedCore.csproj.GenerateResource.cache
+C:\Users\gabri\Pictures\Backup Drive\UniToledo\Projeto 1\MedCore\MedCore\obj\Debug\MedCore.exe
+C:\Users\gabri\Pictures\Backup Drive\UniToledo\Projeto 1\MedCore\MedCore\obj\Debug\MedCore.pdb
+C:\Users\gabri\Pictures\Backup Drive\UniToledo\Projeto 1\MedCore\MedCore\obj\Debug\MedCore.TelaCadastroPaciente.resources
+C:\Users\gabri\Pictures\Backup Drive\UniToledo\Projeto 1\MEDCORE 0.1\MedCore\bin\Debug\MedCore.exe.config
+C:\Users\gabri\Pictures\Backup Drive\UniToledo\Projeto 1\MEDCORE 0.1\MedCore\bin\Debug\MedCore.exe
+C:\Users\gabri\Pictures\Backup Drive\UniToledo\Projeto 1\MEDCORE 0.1\MedCore\bin\Debug\MedCore.pdb
+C:\Users\gabri\Pictures\Backup Drive\UniToledo\Projeto 1\MEDCORE 0.1\MedCore\obj\Debug\MedCore.csprojAssemblyReference.cache
+C:\Users\gabri\Pictures\Backup Drive\UniToledo\Projeto 1\MEDCORE 0.1\MedCore\obj\Debug\MedCore.TelaLogin.resources
+C:\Users\gabri\Pictures\Backup Drive\UniToledo\Projeto 1\MEDCORE 0.1\MedCore\obj\Debug\MedCore.Properties.Resources.resources
+C:\Users\gabri\Pictures\Backup Drive\UniToledo\Projeto 1\MEDCORE 0.1\MedCore\obj\Debug\MedCore.TelaCadastroFuncionário.resources
+C:\Users\gabri\Pictures\Backup Drive\UniToledo\Projeto 1\MEDCORE 0.1\MedCore\obj\Debug\MedCore.TelaCadastroMédico.resources
+C:\Users\gabri\Pictures\Backup Drive\UniToledo\Projeto 1\MEDCORE 0.1\MedCore\obj\Debug\MedCore.TelaCadastroPaciente.resources
+C:\Users\gabri\Pictures\Backup Drive\UniToledo\Projeto 1\MEDCORE 0.1\MedCore\obj\Debug\MedCore.TelaInicialFuncionário.resources
+C:\Users\gabri\Pictures\Backup Drive\UniToledo\Projeto 1\MEDCORE 0.1\MedCore\obj\Debug\MedCore.csproj.GenerateResource.cache
+C:\Users\gabri\Pictures\Backup Drive\UniToledo\Projeto 1\MEDCORE 0.1\MedCore\obj\Debug\MedCore.exe
+C:\Users\gabri\Pictures\Backup Drive\UniToledo\Projeto 1\MEDCORE 0.1\MedCore\obj\Debug\MedCore.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\MEDCORE 0.1\MedCore\bin\Debug\MedCore.exe.config
+C:\Users\felip\OneDrive\Área de Trabalho\MEDCORE 0.1\MedCore\bin\Debug\MedCore.exe
+C:\Users\felip\OneDrive\Área de Trabalho\MEDCORE 0.1\MedCore\bin\Debug\MedCore.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\MEDCORE 0.1\MedCore\obj\Debug\MedCore.TelaLogin.resources
+C:\Users\felip\OneDrive\Área de Trabalho\MEDCORE 0.1\MedCore\obj\Debug\MedCore.Properties.Resources.resources
+C:\Users\felip\OneDrive\Área de Trabalho\MEDCORE 0.1\MedCore\obj\Debug\MedCore.TelaCadastroFuncionário.resources
+C:\Users\felip\OneDrive\Área de Trabalho\MEDCORE 0.1\MedCore\obj\Debug\MedCore.TelaCadastroMédico.resources
+C:\Users\felip\OneDrive\Área de Trabalho\MEDCORE 0.1\MedCore\obj\Debug\MedCore.TelaCadastroPaciente.resources
+C:\Users\felip\OneDrive\Área de Trabalho\MEDCORE 0.1\MedCore\obj\Debug\MedCore.TelaInicialFuncionário.resources
+C:\Users\felip\OneDrive\Área de Trabalho\MEDCORE 0.1\MedCore\obj\Debug\MedCore.csproj.GenerateResource.cache
+C:\Users\felip\OneDrive\Área de Trabalho\MEDCORE 0.1\MedCore\obj\Debug\MedCore.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\MEDCORE 0.1\MedCore\obj\Debug\MedCore.exe
+C:\Users\felip\OneDrive\Área de Trabalho\MEDCORE 0.1\MedCore\obj\Debug\MedCore.pdb
+C:\Users\felip\source\repos\projeto-facul\MedCore\bin\Debug\MedCore.exe.config
+C:\Users\felip\source\repos\projeto-facul\MedCore\bin\Debug\MedCore.exe
+C:\Users\felip\source\repos\projeto-facul\MedCore\bin\Debug\MedCore.pdb
+C:\Users\felip\source\repos\projeto-facul\MedCore\bin\Debug\Db4objects.Db4o.dll
+C:\Users\felip\source\repos\projeto-facul\MedCore\bin\Debug\Db4objects.Db4o.xml
+C:\Users\felip\source\repos\projeto-facul\MedCore\obj\Debug\MedCore.TelaLogin.resources
+C:\Users\felip\source\repos\projeto-facul\MedCore\obj\Debug\MedCore.Properties.Resources.resources
+C:\Users\felip\source\repos\projeto-facul\MedCore\obj\Debug\MedCore.TelaCadastroPaciente.resources
+C:\Users\felip\source\repos\projeto-facul\MedCore\obj\Debug\MedCore.TelaInicialFuncionário.resources
+C:\Users\felip\source\repos\projeto-facul\MedCore\obj\Debug\MedCore.csproj.GenerateResource.cache
+C:\Users\felip\source\repos\projeto-facul\MedCore\obj\Debug\MedCore.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\projeto-facul\MedCore\obj\Debug\MedCore.csproj.CopyComplete
+C:\Users\felip\source\repos\projeto-facul\MedCore\obj\Debug\MedCore.exe
+C:\Users\felip\source\repos\projeto-facul\MedCore\obj\Debug\MedCore.pdb
+C:\Users\felip\source\repos\projeto-facul\MedCore\obj\Debug\MedCore.csprojAssemblyReference.cache
+C:\Users\felip\source\repos\projeto-facul\MedCore\obj\Debug\MedCore.TelaCadastroFuncionario.resources
+C:\Users\felip\source\repos\projeto-facul\MedCore\obj\Debug\MedCore.TelaCadastroMedico.resources
+C:\Users\gabri\Documents\Repositório\projeto-facul\MedCore\obj\Debug\MedCore.csprojAssemblyReference.cache
+C:\Users\gabri\Documents\Repositório\projeto-facul\MedCore\obj\Debug\MedCore.TelaLogin.resources
+C:\Users\gabri\Documents\Repositório\projeto-facul\MedCore\obj\Debug\MedCore.Properties.Resources.resources
+C:\Users\gabri\Documents\Repositório\projeto-facul\MedCore\obj\Debug\MedCore.TelaCadastroFuncionario.resources
+C:\Users\gabri\Documents\Repositório\projeto-facul\MedCore\obj\Debug\MedCore.TelaCadastroMedico.resources
+C:\Users\gabri\Documents\Repositório\projeto-facul\MedCore\obj\Debug\MedCore.TelaCadastroPaciente.resources
+C:\Users\gabri\Documents\Repositório\projeto-facul\MedCore\obj\Debug\MedCore.TelaInicialFuncionário.resources
+C:\Users\gabri\Documents\Repositório\projeto-facul\MedCore\obj\Debug\MedCore.csproj.GenerateResource.cache
+C:\Users\felip\source\repos\projeto-facul\MedCore\obj\Debug\MedCore.View.TelaRegistro.resources
+C:\Users\felip\source\repos\projeto-facul\MedCore\obj\Debug\MedCore.View.TelaInicialMedico.resources
+C:\Users\gabri\Documents\Repositório\projeto-facul\MedCore\bin\Debug\MedCore.exe.config
+C:\Users\gabri\Documents\Repositório\projeto-facul\MedCore\bin\Debug\MedCore.exe
+C:\Users\gabri\Documents\Repositório\projeto-facul\MedCore\bin\Debug\MedCore.pdb
+C:\Users\gabri\Documents\Repositório\projeto-facul\MedCore\bin\Debug\Db4objects.Db4o.xml
+C:\Users\gabri\Documents\Repositório\projeto-facul\MedCore\obj\Debug\MedCore.View.TelaInicialMedico.resources
+C:\Users\gabri\Documents\Repositório\projeto-facul\MedCore\obj\Debug\MedCore.View.TelaRegistro.resources
+C:\Users\gabri\Documents\Repositório\projeto-facul\MedCore\obj\Debug\MedCore.csproj.CopyComplete
+C:\Users\gabri\Documents\Repositório\projeto-facul\MedCore\obj\Debug\MedCore.exe
+C:\Users\gabri\Documents\Repositório\projeto-facul\MedCore\obj\Debug\MedCore.pdb
